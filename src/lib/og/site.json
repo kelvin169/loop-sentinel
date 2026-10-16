@@ -1,0 +1,5 @@
+{
+  "title": "Loop Sentinel",
+  "card": "custom",
+  "description": "Edge anomaly detection for PLC tags \u2014 Isolation Forest and autoencoder scored against a live pump circuit, mapped into Studio 5000-style logic."
+}
